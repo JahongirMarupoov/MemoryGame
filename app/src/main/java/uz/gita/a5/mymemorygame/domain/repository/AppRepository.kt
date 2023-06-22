@@ -1,6 +1,6 @@
 package uz.gita.a5.mymemorygame.domain.repository
 
-import uz.gita.a5.mymemorygame.R
+import uz.gita.a5.mymemorygamejm.R
 import uz.gita.a5.mymemorygame.data.CardData
 
 class AppRepository private constructor() {

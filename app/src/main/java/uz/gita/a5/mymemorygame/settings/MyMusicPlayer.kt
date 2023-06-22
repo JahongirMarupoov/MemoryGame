@@ -4,7 +4,7 @@ import android.annotation.SuppressLint
 import android.content.Context
 import android.media.MediaPlayer
 import android.util.Log
-import uz.gita.a5.mymemorygame.R
+import uz.gita.a5.mymemorygamejm.R
 
 class MyMusicPlayer private constructor() {
     private val openCardMusic by lazy { MediaPlayer.create(context, R.raw.open) }

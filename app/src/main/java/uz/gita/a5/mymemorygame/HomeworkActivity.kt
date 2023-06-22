@@ -3,7 +3,8 @@ package uz.gita.a5.mymemorygame
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import by.kirich1409.viewbindingdelegate.viewBinding
-import uz.gita.a5.mymemorygame.databinding.ActivityHomeworkBinding
+import uz.gita.a5.mymemorygamejm.R
+import uz.gita.a5.mymemorygamejm.databinding.ActivityHomeworkBinding
 
 class HomeworkActivity : AppCompatActivity() {
     private val binding by viewBinding(ActivityHomeworkBinding::bind)

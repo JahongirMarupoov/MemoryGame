@@ -7,9 +7,9 @@ import android.widget.ImageView
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import by.kirich1409.viewbindingdelegate.viewBinding
-import uz.gita.a5.mymemorygame.R
+import uz.gita.a5.mymemorygamejm.R
 import uz.gita.a5.mymemorygame.data.LevelEnum
-import uz.gita.a5.mymemorygame.databinding.ScreenHomeBinding
+import uz.gita.a5.mymemorygamejm.databinding.ScreenHomeBinding
 
 class HomeScreen : Fragment(R.layout.screen_home) {
 

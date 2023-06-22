@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace 'uz.gita.a5.mymemorygame'
+    namespace 'uz.gita.a5.mymemorygamejm'
     compileSdk 33
 
     defaultConfig {

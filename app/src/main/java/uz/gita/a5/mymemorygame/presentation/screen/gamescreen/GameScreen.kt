@@ -18,10 +18,10 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
-import uz.gita.a5.mymemorygame.R
+import uz.gita.a5.mymemorygamejm.R
 import uz.gita.a5.mymemorygame.data.CardData
 import uz.gita.a5.mymemorygame.data.LevelEnum
-import uz.gita.a5.mymemorygame.databinding.ScreenGameBinding
+import uz.gita.a5.mymemorygamejm.databinding.ScreenGameBinding
 import uz.gita.a5.mymemorygame.domain.repository.AppRepository
 import uz.gita.a5.mymemorygame.settings.MyMusicPlayer
 import uz.gita.a5.mymemorygame.settings.MyPref
